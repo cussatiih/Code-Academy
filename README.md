@@ -1,2 +1,2 @@
 # Cubos-Academy
-exercises from Code Academy Dev Course
+exercises from Cubos Academy Dev Course
